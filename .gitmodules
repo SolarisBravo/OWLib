@@ -1,6 +1,0 @@
-[submodule "revorbstd"]
-	path = revorbstd
-	url = https://github.com/yretenai/revorbstd
-[submodule "TACTLib"]
-	path = TACTLib
-	url = https://github.com/overtools/TACTLib
