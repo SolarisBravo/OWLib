@@ -251,8 +251,6 @@ paket-files/
 .idea/
 
 *.sln.iml
-!/OWTools/DataTool/ToolLogic/List/Debug/
-!/OWTools/DataTool/ToolLogic/Extract/Debug/
 /dist/
-/OWTools/DataTool.bat
-/OWTools/Output
+
+*.dll

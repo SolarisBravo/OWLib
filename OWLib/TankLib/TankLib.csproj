@@ -4,6 +4,7 @@
     <PlatformTarget>x64</PlatformTarget>
     <TargetFramework>net471</TargetFramework>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <OutputPath>$(SolutionDir)OWLib\Binaries</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\TACTLib\TACTLib\TACTLib.csproj" />
