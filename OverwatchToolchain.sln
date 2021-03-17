@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{3D7A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTool", "OWTools\DataTool\DataTool.csproj", "{9D1A3DCC-37BF-4979-ACD8-3E998E19CE71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevorbStd", "OWLib\revorbstd\RevorbStd.csproj", "{C3130ECE-02D9-4BE6-9883-75351822E7DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevorbStd", "OWLib\RevorbStd\RevorbStd.csproj", "{C3130ECE-02D9-4BE6-9883-75351822E7DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankLib", "OWLib\TankLib\TankLib.csproj", "{6C37D977-591C-48DE-B25B-04C0847413D1}"
 EndProject

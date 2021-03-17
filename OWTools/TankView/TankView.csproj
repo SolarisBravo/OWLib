@@ -18,7 +18,7 @@
     <ProjectReference Include="..\DataTool\DataTool.csproj" />
     <ProjectReference Include="..\..\OWLib\TACTLib\TACTLib\TACTLib.csproj" />
     <ProjectReference Include="..\..\OWLib\TankLib\TankLib.csproj" />
-    <ProjectReference Include="..\..\OWLib\revorbstd\RevorbStd.csproj" />
+    <ProjectReference Include="..\..\OWLib\RevorbStd\RevorbStd.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="TankView.ico" />
