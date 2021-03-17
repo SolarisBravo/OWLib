@@ -253,4 +253,4 @@ paket-files/
 *.sln.iml
 /dist/
 
-*.dll
+/OWLib/Binaries
